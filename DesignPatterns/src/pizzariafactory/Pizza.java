@@ -1,0 +1,1 @@
+package pizzariafactory;/** *  * @author Denilson | RA: 816122383 * */public abstract class Pizza {	public abstract String obterIngredientes();}
